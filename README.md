@@ -1,7 +1,6 @@
 <h1>Houston Pearse</h1>
 <p>Software Engineer</p>
-[Resume](./HoustonPearseResumeAug2026.pdf)
-
+<a href="./resume.pdf">Download Resume</a>
 <h2>Work</h2>
 <p>Currently a <strong>Backend Engineer at PointsBet</strong>, building and extending the promotions platform that powers real-time betting experiences. Previously a <strong>Full-Stack Consultant at Deloitte</strong>, delivering secure, scalable cloud solutions for high-impact client and internal projects.</p>
 
